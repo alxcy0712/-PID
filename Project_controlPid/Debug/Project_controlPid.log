@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\86150\Desktop\project\idea\Project_controlPid\main.c(64,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86150\Desktop\project\idea\Project_controlPid\main.c(66,102): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\Desktop\project\idea\Project_controlPid\main.c(68,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project_controlPid.vcxproj -> C:\Users\86150\Desktop\project\idea\Project_controlPid\Debug\Project_controlPid.exe
